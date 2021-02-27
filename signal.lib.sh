@@ -2,7 +2,7 @@
 # Signal Library
 # by Fernando Muiños
 
-signaluser="" # signalbot phone number
+signaluser="+254774338285"
 tasksf="tasks.txt"  # tasks file
 whitelist="whitelist.txt" # phone users with perms to chat with bot
 
